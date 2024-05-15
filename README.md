@@ -1,4 +1,5 @@
 # Credit Card Financial Dashboard
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2IyMmZiYjctZDllYy00ZjRlLWE3ZDItN2E2OTMxODhkZjM5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ## Project Overview
 This project aims to provide a comprehensive financial dashboard for a credit card business. The dashboard analyzes and visualizes key performance metrics, customer segmentation, and revenue trends to help the business make informed decisions and optimize its operations.
